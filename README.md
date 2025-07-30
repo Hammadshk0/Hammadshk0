@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SYED HAMMAD</h1>
-<h3 align="center"> 👋 Hi there! I'm passionate about tech and always eager to learn new things.
+<h2 align="left"> 👋 Hi there! I'm passionate about tech and always eager to learn new things.
 
 🔧 Tech Stack
 
@@ -15,11 +15,10 @@
 
 📚 Currently learning and building small projects to improve and expand my skill set.
 
-💡 Open to collaboration and learning opportunities in development, scripting, or DevOps-related roles. </h3>
+💡 Open to collaboration and learning opportunities in development, scripting, or DevOps-related roles. </h2>
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshk0&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshk0" /> </p>
 
-- 🌱 I’m currently learning **DSA , WEB DEVELOPMENT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
